@@ -7,4 +7,4 @@
 [ADVICE]
 
 [NASFILE]
-reg_20140707/ext/
+reg_20140707/ext/=reg_20140707_01
